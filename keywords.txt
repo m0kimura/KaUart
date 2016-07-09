@@ -1,0 +1,6 @@
+KaMelody  KEYWORD1
+
+begin     KEYWORD2
+play      KEYWORD2
+cont      KEYWORD2
+clear     KEYWORD2
